@@ -5,4 +5,4 @@ uncorrected azimuth, min -78 deg, max 356.7deg
 After azimuth correction and rotate map (9deg) (first do correction and then do rotation)
 centrum of az x/y (188/68), azimull(-74), theta(53.9deg)
 
-![alttext](https://github.com/mbenko908/Inversion/blob/652f1f03fb52087a08285b7dd5be03d0266bda27/CaI_GRIS/extrc.png)
+![alttext](https://github.com/mbenko908/Inversion/blob/3d815a8f586b336b5bb7169b014bb55fb00f525a/CaI_GRIS/extrc.png)
