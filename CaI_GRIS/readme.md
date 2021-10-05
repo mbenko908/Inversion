@@ -11,3 +11,8 @@ tip.pro
 alpha = 53.9, beta = 3.0
 output vecd[3-8]
 ![alttext](https://github.com/mbenko908/Inversion/blob/f1fd30f3b14e9c26d3c1b69d93b072c3fd853ed2/CaI_GRIS/tip_fig.png)
+
+sp.pro
+theta 53.9, beta = 3.0
+physres
+![alttext](https://github.com/mbenko908/Inversion/blob/bfb4568f98e15f3142e8daf28c9e198028d933a3/CaI_GRIS/fig.png)
