@@ -14,5 +14,11 @@ output vecd[3-8]
 
 sp.pro
 theta 53.9, beta = 3.0
+   OBSPARAM = {DATE_OBS:   '2016-06-20T10:57:16.000', $             ; !!!!
+               XCEN:       765.5,                      $             ; !!!!
+               YCEN:       -119.8,                     $             ; !!!!
+               XARCS:      0.136,                   $
+               YARCS:      0.134,                   $
+               SCLKM:      98.6                       } 
 physres
 ![alttext](https://github.com/mbenko908/Inversion/blob/bfb4568f98e15f3142e8daf28c9e198028d933a3/CaI_GRIS/fig.png)
