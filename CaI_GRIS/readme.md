@@ -6,3 +6,8 @@ After azimuth correction and rotate map (9deg) (first do correction and then do 
 centrum of az x/y (188/68), azimull(-74), theta(53.9deg)
 
 ![alttext](https://github.com/mbenko908/Inversion/blob/3d815a8f586b336b5bb7169b014bb55fb00f525a/CaI_GRIS/extrc.png)
+
+tip.pro
+alpha = 53.9, beta = 3.0
+output vecd[3-8]
+![alttext](https://github.com/mbenko908/Inversion/blob/f1fd30f3b14e9c26d3c1b69d93b072c3fd853ed2/CaI_GRIS/tip_fig.png)
