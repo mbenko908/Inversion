@@ -7,3 +7,5 @@ extrc
 
 theta 53.9, beta 3
 vecd 
+
+![alttext](https://github.com/mbenko908/Inversion/blob/6590fc19bbc1341ad0d36b3ab16dcf9a95af9efb/HeI_GRIS/tip_fig_he.png)
