@@ -1,4 +1,5 @@
 extrc - after azimuth corrected
+theta = 53.5, azinegv= 25deg, azinull = 25
 ![altimage](https://github.com/mbenko908/Inversion/blob/ceb0fbf5047a2d9f1fe2b0656560e062e23cb4be/FeI_hinode/corrected_fig_fe.png)
 
 tip.pro
