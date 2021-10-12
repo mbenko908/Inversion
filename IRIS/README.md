@@ -6,3 +6,5 @@
 ![Ir2796](https://github.com/mbenko908/Inversion/blob/2b65af23e78a3ea0927785d325da6bb624873e41/IRIS/irr_2796.png)
 
 ![Ir2832](https://github.com/mbenko908/Inversion/blob/f0607a5b83b73abc9b435188382fd92400433d5d/IRIS/irr_2832.png)
+
+![GrisSi](https://github.com/mbenko908/Inversion/blob/164096392acedec83358f137c34a208c0e34f9cd/IRIS/grrr_si.png)
