@@ -7,5 +7,6 @@ Peaks are asymmetric, left > right peak => downflow. right > left => upflow.
 
 ![MGII-IRIS2](https://github.com/mbenko908/Inversion/blob/9c11c5ea9c8134e163167caa91708b219b270ba2/IRIS/inversion_ex/MgIr2.png)
 
+That being said, it has shown that the Mg II h&k lines are formed in a corrugated region with optical depth equals to 1 located in the upper chromosphere (see left panel in Table 3.3). More precisely, the profile features k3 and h3 are formed in the upper chromosphere, about 200 km below the transition region (TR). The difference between the k3 and h3 τ=1 height is about 50 km (Pereira et al. (2013)), while the peaks (k2V/R and h2V/R) are formed in the middle chromosphere, being the difference between k2V and k2R about 350 km. Finally, the average τ=1 height for k1V is located in the photosphere. Table 3.3 summarizes these values for the k line.
 
 24-25 fits 11:10cca
