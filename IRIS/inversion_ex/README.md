@@ -1,5 +1,6 @@
-![res][https://github.com/mbenko908/Inversion/blob/82e58985a8768454d04083062b37583935476618/IRIS/inversion_ex/exam1.png]
+![res](https://github.com/mbenko908/Inversion/blob/82e58985a8768454d04083062b37583935476618/IRIS/inversion_ex/exam1.png)
 
+![res2](https://github.com/mbenko908/Inversion/blob/1298199cd92a7f9af0f468ef27f7e4d69d8f28be/IRIS/inversion_ex/exam2.png)
 
 Mg II k and H
 K-line is more intense than h-line, because oscillator is twice strength than h-line. Peaks of k-line are located higher than h-line at tau=1.
