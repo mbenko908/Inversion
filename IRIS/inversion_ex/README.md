@@ -1,3 +1,5 @@
+![contour](https://github.com/mbenko908/Inversion/blob/25724adbb3208602727d647a41e35d2cc55c105a/IRIS/inversion_ex/Contour.png)
+
 ![res](https://github.com/mbenko908/Inversion/blob/82e58985a8768454d04083062b37583935476618/IRIS/inversion_ex/exam1.png)
 
 ![res2](https://github.com/mbenko908/Inversion/blob/1298199cd92a7f9af0f468ef27f7e4d69d8f28be/IRIS/inversion_ex/exam2.png)
