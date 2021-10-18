@@ -10,3 +10,5 @@ beta = 3
 
 finall results 
 ![altimage](https://github.com/mbenko908/Inversion/blob/31bfd6f9336bed69408a7ea684c07e724e6660f0/FeI_hinode/fig03_newfe.png)
+
+black color - contour boundary UP --> 0.5, blue color --> 1867 G
